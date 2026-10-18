@@ -4,7 +4,7 @@
 
 > 🎥 **Preview Video:** https://youtu.be/LqJRINHNuYQ
 
-Custom CS2 Panorama UI built with **Dear ImGui**, **DirectX 11**, and **FreeType**.
+Counter Strike Panorama UI built with **Dear ImGui**, **DirectX 11**, and **FreeType**.
 
 ### Info
 - **Renderer**: DirectX 11 (x64)
