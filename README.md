@@ -2,7 +2,7 @@
 
 [![Preview Video](https://img.youtube.com/vi/LqJRINHNuYQ/maxresdefault.jpg)](https://youtu.be/LqJRINHNuYQ)
 
-> 🎥 **Preview Video:** https://youtu.be/LqJRINHNuYQ
+**Preview Video:** https://youtu.be/LqJRINHNuYQ
 
 Counter Strike Panorama UI built with **Dear ImGui**, **DirectX 11**, and **FreeType**.
 
