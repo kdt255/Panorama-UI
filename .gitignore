@@ -1,0 +1,17 @@
+# Visual Studio & Build Artifacts
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.exe
+*.ini
